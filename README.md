@@ -1,5 +1,5 @@
 ### Hi, I'm Praveen <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="27px" >
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif">
 
 ![](https://komarev.com/ghpvc/?username=praveensingh3123&color=blue)
 <br>
