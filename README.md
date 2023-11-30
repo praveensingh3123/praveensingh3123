@@ -4,7 +4,7 @@
 ![](https://komarev.com/ghpvc/?username=praveensingh3123&color=blue)
 <br>
 
-<a href="https://www.linkedin.com/in/praveensingh3/" target="blank"><img align="left" src="https://image.flaticon.com/icons/png/512/174/174857.png" height="30px" width="30px" /></a>
+<a href="https://www.linkedin.com/in/praveensingh3/" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" height="30px" width="30px" /></a>
 <a href="https://www.hackerrank.com/praveensingh3128?hr_r=1" target="blank"><img align="left" src="https://upload.wikimedia.org/wikipedia/commons/4/40/HackerRank_Icon-1000px.png" height="30px" width="30px"/></a>
 <a href="https://leetcode.com/praveensingh3128/" target="blank"><img align="left" src="https://raw.githubusercontent.com/jdneo/vscode-leetcode/master/resources/LeetCode.png" height="30px" width="30px" /></a>
 <a href="https://www.codechef.com/users/praveensingh3" target="blank"><img align="left" src="https://i.pinimg.com/originals/c5/d9/fc/c5d9fc1e18bcf039f464c2ab6cfb3eb6.jpg" height="30px" width="30px" /></a>
